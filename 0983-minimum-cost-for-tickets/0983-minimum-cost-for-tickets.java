@@ -19,9 +19,6 @@ class Solution {
             }
             
         }
-        // for(int i=0;i<=maxDay;i++) {
-        //     System.out.print(dp[i]+ " ");
-        // }
         return dp[maxDay];
     }
 }
