@@ -4,7 +4,6 @@ class Solution {
 
     int ans = 0;
 
-    // piles = [S S M L M L], pick all the M.
     for (int i = piles.length / 3; i < piles.length; i += 2)
       ans += piles[i];
 
