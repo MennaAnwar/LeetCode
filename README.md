@@ -20,5 +20,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0197-rising-temperature](https://github.com/MennaAnwar/LeetCode/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/MennaAnwar/LeetCode/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/MennaAnwar/LeetCode/tree/master/0511-game-play-analysis-i) |
+| [0620-not-boring-movies](https://github.com/MennaAnwar/LeetCode/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/MennaAnwar/LeetCode/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
