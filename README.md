@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0262-trips-and-users](https://github.com/MennaAnwar/LeetCode/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/MennaAnwar/LeetCode/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/MennaAnwar/LeetCode/tree/master/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/MennaAnwar/LeetCode/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/MennaAnwar/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/MennaAnwar/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0608-tree-node](https://github.com/MennaAnwar/LeetCode/tree/master/0608-tree-node) |
